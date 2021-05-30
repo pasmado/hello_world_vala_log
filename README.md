@@ -1,2 +1,2 @@
-# hello_world_vala_log
+# Hello World Vala Log
 A program writen in Vala language that prints "Hello World" to the log.
