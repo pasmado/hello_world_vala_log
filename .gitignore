@@ -1,13 +1,33 @@
-CMakeLists.txt.user
-CMakeCache.txt
-CMakeFiles
-CMakeScripts
-Testing
-Makefile
-cmake_install.cmake
-install_manifest.txt
-compile_commands.json
-CTestTestfile.cmake
-_deps
+.mypy_cache/
+.pytest_cache/
+/.project
+/.pydevproject
+/.settings
+/.cproject
+/.idea
+/.vscode
 
-build/
+__pycache__
+.coverage
+/install dir
+/work area
+
+/meson-test-run.txt
+/meson-test-run.xml
+/meson-cross-test-run.txt
+/meson-cross-test-run.xml
+
+.DS_Store
+*~
+*.swp
+packagecache
+/MANIFEST
+/build
+/dist
+/meson.egg-info
+
+/docs/built_docs
+/docs/hotdoc-private*
+
+*.pyc
+/*venv*
